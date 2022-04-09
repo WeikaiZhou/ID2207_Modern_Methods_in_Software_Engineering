@@ -1,0 +1,8 @@
+Problem VIII
+a)
+	1) Context : Module
+		inv: taken_by->size()>7
+	2) Context : Module
+		inv: set_work_weight->sum()=100
+	3) Context : Student
+		inv: takes_credit->sum()=120	
